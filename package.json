@@ -1,0 +1,27 @@
+{
+  "name": "@useless-javascript-modules/standard-deviation",
+  "version": "1.0.0",
+  "description": "A useless javascript module that averages numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robilars-amazon/useless-javascript-modules-standard-deviation.git"
+  },
+  "author": "Larson, Robin <robilars@amazon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robilars-amazon/useless-javascript-modules-standard-deviation/issues"
+  },
+  "homepage": "https://github.com/robilars-amazon/useless-javascript-modules-standard-deviation#readme",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@useless-javascript-modules/math": "^2.0.0",
+    "@useless-javascript-modules/sum": "^1.0.0",
+    "@useless-javascript-modules/mean": "^1.0.0"
+  }
+}
