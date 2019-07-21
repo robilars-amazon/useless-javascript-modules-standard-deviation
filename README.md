@@ -9,3 +9,6 @@ const standardDeviation = require('@useless-javascript-modules/standard-deviatio
 standardDeviation([1,2,3,4]) /* = 2.5 */
 ```
 
+# Change Log
+* 1.0.1 - Upgraded sum and mean dependency to fix odd rounding behavior 
+* 1.0.0 - initial release  
