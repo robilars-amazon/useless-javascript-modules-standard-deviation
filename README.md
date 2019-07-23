@@ -10,5 +10,6 @@ standardDeviation([1,2,3,4]) /* = 2.5 */
 ```
 
 # Change Log
+* 1.0.2 - Upgraded `math`, `mean`, and `sum` and transitioned to new `math` API
 * 1.0.1 - Upgraded sum and mean dependency to fix odd rounding behavior 
 * 1.0.0 - initial release  

@@ -4,5 +4,5 @@ const mean = require('@useless-javascript-modules/mean')
 
 module.exports = function standardDeviation(terms){
     const meanOfTerms = mean(terms)
-    return math('divide',sum(terms.map((val)=>math('pow',Math.abs(val - meanOfTerms),2))),terms.length)
+    return math.divide(sum(terms.map((val)=>math.pow(Math.abs(val - meanOfTerms),2))),terms.length)
 }

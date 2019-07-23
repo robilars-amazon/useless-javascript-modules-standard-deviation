@@ -1,6 +1,6 @@
 {
   "name": "@useless-javascript-modules/standard-deviation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A useless javascript module that averages numbers",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,8 @@
     "index.js"
   ],
   "dependencies": {
-    "@useless-javascript-modules/math": "^2.0.0",
-    "@useless-javascript-modules/sum": "^1.0.2",
-    "@useless-javascript-modules/mean": "^1.0.1"
+    "@useless-javascript-modules/math": "^3.0.0",
+    "@useless-javascript-modules/mean": "^1.0.2",
+    "@useless-javascript-modules/sum": "^1.0.2"
   }
 }
